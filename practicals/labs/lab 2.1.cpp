@@ -1,5 +1,5 @@
 #include <iostream>
-// завдання 1
+// Р·Р°РІРґР°РЅРЅСЏ 1
 int main()
 {
 	int arr1[10];
@@ -28,7 +28,7 @@ int main()
 		}
 	}
 }
-// завдання 2
+// Р·Р°РІРґР°РЅРЅСЏ 2
 int main()
 {
 	int arr1[10];
@@ -62,7 +62,7 @@ int main()
 		multipl *= arr3[i];
 	}
 }
-// завдання 3
+// Р·Р°РІРґР°РЅРЅСЏ 3
 int main()
 {
 	float arr[4][5]{
