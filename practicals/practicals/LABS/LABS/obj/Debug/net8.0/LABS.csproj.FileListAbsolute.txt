@@ -1,0 +1,15 @@
+C:\labs\practicals\practicals\LABS\LABS\bin\Debug\net8.0\LABS.exe
+C:\labs\practicals\practicals\LABS\LABS\bin\Debug\net8.0\LABS.deps.json
+C:\labs\practicals\practicals\LABS\LABS\bin\Debug\net8.0\LABS.runtimeconfig.json
+C:\labs\practicals\practicals\LABS\LABS\bin\Debug\net8.0\LABS.dll
+C:\labs\practicals\practicals\LABS\LABS\bin\Debug\net8.0\LABS.pdb
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.AssemblyInfoInputs.cache
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.AssemblyInfo.cs
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.csproj.CoreCompileInputs.cache
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.sourcelink.json
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.dll
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\refint\LABS.dll
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.pdb
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\LABS.genruntimeconfig.cache
+C:\labs\practicals\practicals\LABS\LABS\obj\Debug\net8.0\ref\LABS.dll

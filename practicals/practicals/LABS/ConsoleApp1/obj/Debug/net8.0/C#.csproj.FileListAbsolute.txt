@@ -1,0 +1,15 @@
+C:\labs\practicals\practicals\LABS\ConsoleApp1\bin\Debug\net8.0\C#.exe
+C:\labs\practicals\practicals\LABS\ConsoleApp1\bin\Debug\net8.0\C#.deps.json
+C:\labs\practicals\practicals\LABS\ConsoleApp1\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\labs\practicals\practicals\LABS\ConsoleApp1\bin\Debug\net8.0\C#.dll
+C:\labs\practicals\practicals\LABS\ConsoleApp1\bin\Debug\net8.0\C#.pdb
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.sourcelink.json
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.dll
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\refint\C#.dll
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.pdb
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\labs\practicals\practicals\LABS\ConsoleApp1\obj\Debug\net8.0\ref\C#.dll
